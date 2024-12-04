@@ -168,7 +168,7 @@ The third chart examines the belief across generations regarding electric cars' 
 
 *  **The "Millennials" have the strongest belief in the importance of electric cars for combating climate change, and Generation Z also holds this belief to a significant extent. However, the "Other" group shows more skepticism in this regard.**
 
-###**At the end, for conclusion we can say these charts collectively suggest that while all generations show some level of positivity towards electric cars, Millennials and Generation Z are more aligned in seeing electric cars as beneficial for the environment, while the Other age group shows stronger interest in purchasing, perhaps due to different priorities or purchasing capacity.**
+**At the end, for conclusion we can say these charts collectively suggest that while all generations show some level of positivity towards electric cars, Millennials and Generation Z are more aligned in seeing electric cars as beneficial for the environment, while the Other age group shows stronger interest in purchasing, perhaps due to different priorities or purchasing capacity.**
 
 ## Reflection
 
