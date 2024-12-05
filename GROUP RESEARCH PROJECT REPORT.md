@@ -152,6 +152,7 @@ These steps can provide further insight into how strategies should be targeted t
 
 
 ## Conclusion
+
 This study aimed to explore the perceptions of Generation Z toward electric vehicles (EVs), with a particular focus on how Aston Martin can tailor its marketing strategies to connect with this influential demographic. As the automotive industry transitions towards sustainability, it is crucial for luxury car brands, such as Aston Martin, to understand and adapt to the values and preferences of younger generations, especially Generation Z.
 
 Our research has provided critical insights into the attitudes of Gen Z toward electric cars, revealing a generally neutral or mildly negative perception. With an average score of 2.33 out of 5, Gen Z's view on electric vehicles lags behind other age groups, such as Millennials and those aged 44 and above, who displayed more positive sentiments. This indicates a significant challenge for Aston Martin in convincing this generation to embrace electric vehicles.
@@ -167,8 +168,6 @@ Moreover, Aston Martin could partner with eco-conscious initiatives or sponsors 
 However, there are several challenges to consider. The relatively high cost of electric cars, concerns over charging infrastructure, and the perceived practicality of EVs for daily use all contribute to Gen Z's hesitation to adopt electric vehicles. 
 
 In conclusion, while Generation Z currently exhibits a neutral stance toward electric vehicles, there is an immense opportunity for Aston Martin to lead the market by combining its luxury image with sustainability, innovation, and modern design. By adopting a targeted, tech-savvy marketing approach and addressing the specific concerns of this demographic, Aston Martin can establish itself as a leader in the electric vehicle space and create long-lasting connections with the next generation of car buyers.
-
-
 
 
 ## Reflection
