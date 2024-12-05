@@ -4,7 +4,8 @@
 1. Hamid Ezoji
 2. Behrad Khamenehmohammadi 
 3. Veronika Kránicz
-4. Deepkumar Jogani
+4. Mohamed Aziz Fridhi
+5. Deepkumar Jogani
 
 ## Declaration
 We hereby declare the fair use of AI in our project. It was used solely for brainstorming ideas and structuring the report. Additionally, it was employed to check for grammatical errors and misspellings.
@@ -151,26 +152,24 @@ These steps can provide further insight into how strategies should be targeted t
 
 
 ## Conclusion
+This study aimed to explore the perceptions of Generation Z toward electric vehicles (EVs), with a particular focus on how Aston Martin can tailor its marketing strategies to connect with this influential demographic. As the automotive industry transitions towards sustainability, it is crucial for luxury car brands, such as Aston Martin, to understand and adapt to the values and preferences of younger generations, especially Generation Z.
 
-Before discuse conclusion, we are going to explain the charts mentioned above. I the charts we have:
+Our research has provided critical insights into the attitudes of Gen Z toward electric cars, revealing a generally neutral or mildly negative perception. With an average score of 2.33 out of 5, Gen Z's view on electric vehicles lags behind other age groups, such as Millennials and those aged 44 and above, who displayed more positive sentiments. This indicates a significant challenge for Aston Martin in convincing this generation to embrace electric vehicles.
 
-**Chart 1: General Perception of Electric Cars**
-The first chart shows the average general perception of electric cars across different generations. Generation Z has a slightly lower average perception score compared to Millennials and the Other age group. Millennials and the Other group have similar levels of perception, with the Other group having the highest. This suggests that while all generations generally have a positive view of electric cars, Generation Z may have a slightly less favorable perception than the older groups.
+Despite the neutral stance toward EVs, Generation Z’s strong commitment to sustainability and climate change initiatives offers a unique opportunity for brands like Aston Martin. While they may not immediately see electric cars as a desirable alternative, there is a growing awareness among Gen Z about environmental issues, with 71% acknowledging the role of electric vehicles in combating climate change. Aston Martin, with its reputation for luxury and cutting-edge design, could effectively align its electric car offerings with the values of sustainability and innovation that Gen Z holds dear.
+
+To close the gap between Aston Martin and Generation Z, we propose several targeted strategies. First, digital storytelling and social media influencers could be utilized to present electric vehicles as part of a modern, sustainable lifestyle that resonates with Gen Z's values. Aston Martin should consider leveraging platforms like Instagram, TikTok, and YouTube to engage with younger audiences in a way that feels authentic and relatable. 
+
+Furthermore, highlighting the technological innovation and design appeal of electric vehicles can make them more attractive to Gen Z, who are increasingly looking for products that blend style with environmental consciousness. In addition to digital campaigns, affordable entry-level electric models could be introduced to bridge the gap between luxury and accessibility, thus appealing to Gen Z’s interest in high-end brands without compromising on price.
+
+Moreover, Aston Martin could partner with eco-conscious initiatives or sponsors to further cement its commitment to sustainability, thereby positioning its electric vehicles as both a symbol of luxury and a force for environmental good.
+
+However, there are several challenges to consider. The relatively high cost of electric cars, concerns over charging infrastructure, and the perceived practicality of EVs for daily use all contribute to Gen Z's hesitation to adopt electric vehicles. 
+
+In conclusion, while Generation Z currently exhibits a neutral stance toward electric vehicles, there is an immense opportunity for Aston Martin to lead the market by combining its luxury image with sustainability, innovation, and modern design. By adopting a targeted, tech-savvy marketing approach and addressing the specific concerns of this demographic, Aston Martin can establish itself as a leader in the electric vehicle space and create long-lasting connections with the next generation of car buyers.
 
 
-*   **Generation Z has a positive perception of electric cars, but this perception is lower than that of Millennials and the "Other" group.**
 
-**Chart 2: Likelihood of Purchasing an Electric Car**
-The second chart illustrates the likelihood of each generation considering the purchase of an electric car in the next five years. Here, the Other age group shows the highest level of interest in purchasing electric cars, followed by Generation Z, and finally Millennials. This pattern indicates that while Generation Z shows moderate interest in adopting electric cars, the Other age group (likely older generations or unclassified respondents) is the most open to making a purchase, perhaps reflecting a greater purchasing power or different lifestyle needs.
-
-*   **The "Other" group shows the highest willingness to purchase electric cars, followed by Generation Z. This may be due to differences in financial capability or varying needs.**
-
-**Chart 3: Belief in Electric Cars for Climate Change**
-The third chart examines the belief across generations regarding electric cars' importance in combating climate change. Millennials have the highest level of belief in electric cars' role in addressing climate issues, followed closely by Generation Z. The Other age group, however, has a significantly lower level of agreement, suggesting that they may be more skeptical about the environmental impact of electric cars. This result shows that younger generations, especially Millennials, are more likely to see electric cars as essential for environmental benefits, aligning with trends in environmental awareness among younger people.
-
-*  **The "Millennials" have the strongest belief in the importance of electric cars for combating climate change, and Generation Z also holds this belief to a significant extent. However, the "Other" group shows more skepticism in this regard.**
-
-**At the end, for conclusion we can say these charts collectively suggest that while all generations show some level of positivity towards electric cars, Millennials and Generation Z are more aligned in seeing electric cars as beneficial for the environment, while the Other age group shows stronger interest in purchasing, perhaps due to different priorities or purchasing capacity.**
 
 ## Reflection
 
